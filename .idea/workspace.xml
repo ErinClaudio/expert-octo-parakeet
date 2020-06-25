@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d07c2bef-3596-4347-889e-a505b3a79c02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/starter_code/tests/unit/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/starter_code/tests/unit/models/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/starter_code/tests/unit/models/test_items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter_code/models/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter_code/resources/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter_code/tests/integration/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter_code/tests/integration/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/starter_code/tests/integration/models/test_item.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/env/lib/python3.7/site-packages/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/lib/python3.7/site-packages/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter_code/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/starter_code/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/starter_code/tests/base_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/starter_code/tests/base_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
